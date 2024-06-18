@@ -1,0 +1,4 @@
+- Dark / Light theme
+- Tailwind CSS
+- React router dom v6
+- UI Library
