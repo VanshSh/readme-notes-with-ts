@@ -6,8 +6,8 @@ import {
   createBrowserRouter,
   createRoutesFromElements,
 } from 'react-router-dom'
+import NewNote from './components/NoteForm'
 import ErrorElement from './routes/ErrorElement'
-import NewNote from './routes/NewNote'
 
 const router = createBrowserRouter(
   createRoutesFromElements(

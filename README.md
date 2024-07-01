@@ -1,3 +1,7 @@
+- Github code: https://github.com/WebDevSimplified/react-note-taking-app
+
+
+
 - Dark / Light theme
 - Tailwind CSS
 - React router dom v6
@@ -10,3 +14,4 @@
   - Prefer Generics
   - Enums
   - Interfaces
+  - Every file should have a type
